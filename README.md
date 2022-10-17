@@ -100,7 +100,7 @@ kubectl apply -f kubeadm-kuberouter.yaml
 sudo kubeadm join --token=<token> <ip-address:port>
 ```
 
-### [Centos](#contents)
+### [CentOS](#contents)
 ```bash
 # On Controller/Master
 
